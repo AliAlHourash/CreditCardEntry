@@ -16,7 +16,7 @@ repositories {
 
 android {
     namespace 'com.devmarvel.creditcardentry'
-    compileSdkVersion 34
+    compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
         minSdkVersion 14
