@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion rootProject.ext.targetSdkVersion
+        targetSdkVersion 34
     }
 
     sourceSets {
